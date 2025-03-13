@@ -1,4 +1,4 @@
-# bucles_condiciones_numeros
+# Bucles-Condiciones-Numeros
 
 
 Estos scripts aplican diversas prácticas de programación en Python, incluyendo:
