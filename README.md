@@ -1,7 +1,7 @@
 # Bucles-Condiciones-Numeros
 
 
-Estos scripts aplican diversas prácticas de programación en Python, incluyendo:
+### Estos scripts aplican diversas prácticas de programación en Python, incluyendo:
 
 + **_Uso de números aleatorios:_** Se utiliza random.randint() para generar valores dentro de un rango específico.
 + **_Control de flujo con bucles y condicionales:_** Se emplea while y if-else para iterar y clasificar los números generados.
