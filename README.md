@@ -10,3 +10,7 @@ Estos scripts aplican diversas prácticas de programación en Python, incluyendo
 + **_Gestión de variables y acumuladores:_** Se almacenan valores en variables globales para su posterior análisis.
 
 Los códigos siguen un enfoque estructurado sin el uso de funciones, lo que podría mejorarse con modularización.
+
+
+## Autor: 
+### Maximo Castillo
